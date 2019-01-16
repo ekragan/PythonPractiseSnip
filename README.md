@@ -1,2 +1,2 @@
-# pythonexercises
+# SamplePython
 RandomExamples
